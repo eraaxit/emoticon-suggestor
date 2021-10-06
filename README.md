@@ -10,7 +10,7 @@ Motive behind starting this project is to make open source awareness among stude
 - Fork this repository to your github account
 - Clone this repository to your local machine, change directory into project folder and run start command:
 ```bash
-git clone [url from clone option]
+git clone https://github.com/eraaxit/emoticon-suggestor.git
 cd emoticon-suggestor
 npm start
 ```
