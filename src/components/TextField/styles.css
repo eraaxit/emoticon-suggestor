@@ -1,0 +1,15 @@
+.textfield_container{
+    margin-top: 140px;
+}
+.textfield_container > textarea{
+    background: rgba(0, 0, 0, 0.4);
+    resize: none;
+    border: 2px solid rgb(0, 56, 56);
+    color: rgb(189, 206, 206);
+    letter-spacing: 1px;
+    font-size: 18px;
+    padding: 14px 8px;
+    height: 300px;
+    width: 600px;
+    max-width: 90vw;
+}

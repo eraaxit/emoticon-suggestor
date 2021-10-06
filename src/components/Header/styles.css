@@ -1,0 +1,9 @@
+.header-container{
+    box-shadow: 0px 10px 44px 4px rgba(1, 79, 54, 0.2);
+}
+
+.header_logo{
+   color: rgb(221, 221, 221);
+   padding: 12px 0px;
+   font-size: 2em;
+}

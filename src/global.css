@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+body,html {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif, Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input, textarea, button{
+  outline: none;
+  border: none;
+  font-family: 'Noto Sans', sans-serif, Arial, Helvetica, sans-serif;
+}
+
+:root{
+  --primary-bg: rgb(5, 12, 7);
+  --secondary-bg: rgb(0, 20, 0);
+}
+
+.primarybg{
+  background-color: var(--primary-bg);
+}
+
+.secondarybg{
+  background-color: var(--secondary-bg);
+}
+
+.app_container{
+  height: 100vh;
+}
+
+.container-flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
