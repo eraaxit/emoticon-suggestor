@@ -1,0 +1,22 @@
+[
+    {
+        "emoji": "...",
+        "keywords": " "
+    },
+    {
+        "emoji": "😀",
+        "keywords": "smile joy fun happy"
+    },
+    {
+        "emoji" : "😂",
+        "keywords": "laugh funny lol rofl haha"
+    },
+    {
+        "emoji": "🙁",
+        "keywords": "sad dissappointed notfunny"
+    },
+    {
+        "emoji": "🤓",
+        "keywords": "noob nerd stupid specs spectacles"
+    }
+]

@@ -16,6 +16,8 @@ input, textarea, button{
 :root{
   --primary-bg: rgb(5, 12, 7);
   --secondary-bg: rgb(0, 20, 0);
+  --tertiary-bg : rgb(177, 177, 177);
+  --primary-clr: rgb(221,221,221);
 }
 
 .primarybg{
@@ -26,6 +28,13 @@ input, textarea, button{
   background-color: var(--secondary-bg);
 }
 
+.tertiarybg{
+  background-color: var(--tertiary-bg);
+}
+
+.primaryclr{
+  color:var(--primary-clr)
+}
 .app_container{
   height: 100vh;
 }
