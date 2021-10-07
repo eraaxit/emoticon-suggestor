@@ -17,7 +17,7 @@ const TextField = () => {
     useEffect( () => {
         const textentered = textValue.split(" ");
         const keyword = textentered[textentered.length-1];
-        const relevantEmoji = data.find( item => item.keywords.includes(keyword));
+        const relevantEmoji = data.find( item => item.keywords.includes(keyword.toLowerCase()));
         setEmoji(relevantEmoji ? relevantEmoji.emoji : "..." );
     }, [ textValue ])
 
