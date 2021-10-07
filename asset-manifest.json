@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emoticon-suggestor/static/css/main.8e2173f4.chunk.css",
-    "main.js": "/emoticon-suggestor/static/js/main.7ce9bb6d.chunk.js",
-    "main.js.map": "/emoticon-suggestor/static/js/main.7ce9bb6d.chunk.js.map",
+    "main.js": "/emoticon-suggestor/static/js/main.920b20b3.chunk.js",
+    "main.js.map": "/emoticon-suggestor/static/js/main.920b20b3.chunk.js.map",
     "runtime-main.js": "/emoticon-suggestor/static/js/runtime-main.9e727593.js",
     "runtime-main.js.map": "/emoticon-suggestor/static/js/runtime-main.9e727593.js.map",
     "static/js/2.8851727e.chunk.js": "/emoticon-suggestor/static/js/2.8851727e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9e727593.js",
     "static/js/2.8851727e.chunk.js",
     "static/css/main.8e2173f4.chunk.css",
-    "static/js/main.7ce9bb6d.chunk.js"
+    "static/js/main.920b20b3.chunk.js"
   ]
 }
