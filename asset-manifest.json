@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/emoticon-suggestor/static/css/main.e272fdb6.chunk.css",
-    "main.js": "/emoticon-suggestor/static/js/main.6c921f21.chunk.js",
-    "main.js.map": "/emoticon-suggestor/static/js/main.6c921f21.chunk.js.map",
+    "main.css": "/emoticon-suggestor/static/css/main.8e2173f4.chunk.css",
+    "main.js": "/emoticon-suggestor/static/js/main.7ce9bb6d.chunk.js",
+    "main.js.map": "/emoticon-suggestor/static/js/main.7ce9bb6d.chunk.js.map",
     "runtime-main.js": "/emoticon-suggestor/static/js/runtime-main.9e727593.js",
     "runtime-main.js.map": "/emoticon-suggestor/static/js/runtime-main.9e727593.js.map",
     "static/js/2.8851727e.chunk.js": "/emoticon-suggestor/static/js/2.8851727e.chunk.js",
     "static/js/2.8851727e.chunk.js.map": "/emoticon-suggestor/static/js/2.8851727e.chunk.js.map",
     "index.html": "/emoticon-suggestor/index.html",
-    "static/css/main.e272fdb6.chunk.css.map": "/emoticon-suggestor/static/css/main.e272fdb6.chunk.css.map",
+    "static/css/main.8e2173f4.chunk.css.map": "/emoticon-suggestor/static/css/main.8e2173f4.chunk.css.map",
     "static/js/2.8851727e.chunk.js.LICENSE.txt": "/emoticon-suggestor/static/js/2.8851727e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9e727593.js",
     "static/js/2.8851727e.chunk.js",
-    "static/css/main.e272fdb6.chunk.css",
-    "static/js/main.6c921f21.chunk.js"
+    "static/css/main.8e2173f4.chunk.css",
+    "static/js/main.7ce9bb6d.chunk.js"
   ]
 }
