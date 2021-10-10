@@ -29,7 +29,7 @@ const TextField = () => {
 
     const onChangeLogic = (e) => {
         setTextValue( e.target.value );
-        if( !textValue ) return setSuggestionBoxPosition({ top: 0, left: 0, display: "none" })
+        if( !e.target.value ) return setSuggestionBoxPosition({ top: 0, left: 0, display: "none" })
         getCursoryPosition()
     }
 
