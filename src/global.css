@@ -16,16 +16,18 @@ input, textarea, button{
 :root{
   --primary-bg: rgb(5, 12, 7);
   --secondary-bg: rgb(0, 20, 0);
+  --primary-bg1: rgb(4, 9, 83);
+  --secondary-bg1: rgb(9, 50, 97);
   --tertiary-bg : rgb(177, 177, 177);
   --primary-clr: rgb(221,221,221);
 }
 
 .primarybg{
-  background-color: var(--primary-bg);
+  background-color: var(--primary-bg1);
 }
 
 .secondarybg{
-  background-color: var(--secondary-bg);
+  background-color: var(--secondary-bg1);
 }
 
 .tertiarybg{
