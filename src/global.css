@@ -1,47 +1,70 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
 
-body,html {
+body,
+html {
   margin: 0;
-  font-family: 'Noto Sans', sans-serif, Arial, Helvetica, sans-serif;
+  font-family: "Noto Sans", sans-serif, Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-input, textarea, button{
+input,
+textarea,
+button {
   outline: none;
   border: none;
-  font-family: 'Noto Sans', sans-serif, Arial, Helvetica, sans-serif;
+  font-family: "Noto Sans", sans-serif, Arial, Helvetica, sans-serif;
 }
 
-:root{
+.theme-dark {
   --primary-bg: rgb(5, 12, 7);
   --secondary-bg: rgb(0, 20, 0);
   --primary-bg1: rgb(4, 9, 83);
   --secondary-bg1: rgb(9, 50, 97);
-  --tertiary-bg : rgb(177, 177, 177);
-  --primary-clr: rgb(221,221,221);
+  --tertiary-bg: rgb(177, 177, 177);
+  --primary-clr: rgb(221, 221, 221);
+  --input-bg: rgba(0, 0, 0, 0.4);
+  --font-color: #fff;
 }
-
-.primarybg{
+.theme-light {
+  --primary-bg: #fff;
+  --secondary-bg: #fefefe;
+  --primary-bg1: #008cff;
+  --secondary-bg1: #fefefe;
+  --tertiary-bg: #cecece;
+  --primary-clr: #000;
+  --input-bg: rgba(255, 255, 255, 0.4);
+  --font-color: #000;
+}
+.primarybg {
   background-color: var(--primary-bg1);
 }
 
-.secondarybg{
+.secondarybg {
   background-color: var(--secondary-bg1);
 }
 
-.tertiarybg{
+.tertiarybg {
   background-color: var(--tertiary-bg);
 }
 
-.primaryclr{
-  color:var(--primary-clr)
+.primaryclr {
+  color: var(--primary-clr);
 }
-.app_container{
+.app_container {
   height: 100vh;
 }
 
-.container-flex-center{
+.flexCenter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.marginTB10 {
+  margin: 10px 0;
+}
+
+.container-flex-center {
   display: flex;
   justify-content: center;
   align-items: center;
