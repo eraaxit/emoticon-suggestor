@@ -1079,16 +1079,6 @@
         "context": "person: beard"
     },
     {
-        "emoji": "🧔‍♂️",
-        "keywords": "man_beard",
-        "context": "man: beard"
-    },
-    {
-        "emoji": "🧔‍♀️",
-        "keywords": "woman_beard",
-        "context": "woman: beard"
-    },
-    {
         "emoji": "👨‍🦰",
         "keywords": "red_haired_man",
         "context": "man: red hair"
